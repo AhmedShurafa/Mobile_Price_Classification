@@ -22,6 +22,9 @@ I'm Ahmed Shorafa, a professional Back End developer with 5+  year of experience
   <li>Git, Github</li>  
   <li>Vue 3</li>  
   <li>inertiajs</li>  
+  <li>SQL</li>  
+  <li>Python</li>  
+  <li>Power Bi</li>  
 </ul>
 <!--
 **AhmedShurafa/AhmedShurafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
